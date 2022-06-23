@@ -1,3 +1,7 @@
+This project was build and tested on godot 3.1.2 . I never tested it with newer releases.
+
+Following is the README which was sitting already in the project folder:
+
 # Godot OpenVR GDNative module
 This module is provided as is, all files are contained within the addons/godot-openvr-asset folder
 
