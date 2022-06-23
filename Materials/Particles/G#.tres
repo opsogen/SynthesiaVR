@@ -1,0 +1,8 @@
+[gd_resource type="ParticlesMaterial" format=2]
+
+[resource]
+emission_shape = 2
+emission_box_extents = Vector3( 10, 10, 10 )
+gravity = Vector3( 0, -4.2, 0 )
+damping_random = 1.0
+scale = 0.4
